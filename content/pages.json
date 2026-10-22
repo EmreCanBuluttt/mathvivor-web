@@ -1,0 +1,263 @@
+{
+  "site": {
+    "name": "Mathvivor",
+    "tagline": "Connecting People",
+    "url": "https://www.mathvivor.com/",
+    "og_image": "assets/img/kart.jpg",
+    "partner_name": "TUKSAL Danışmanlık",
+    "partner_url": "https://www.tuksaldanismanlik.com/"
+  },
+  "nav": [
+    {
+      "label": "Ana Sayfa",
+      "href": "index.html"
+    },
+    {
+      "label": "Hakkımızda",
+      "href": "hakkimizda.html"
+    },
+    {
+      "label": "Neden Mathvivor",
+      "href": "neden-mathvivor.html"
+    },
+    {
+      "label": "Oyunlar",
+      "href": "oyunlar.html"
+    },
+    {
+      "label": "Kazanımlar",
+      "href": "kazanimlar.html"
+    },
+    {
+      "label": "Kurumsal",
+      "href": "kurumsal.html"
+    },
+    {
+      "label": "İletişim",
+      "href": "iletisim.html",
+      "cta": true
+    }
+  ],
+  "dock": [
+    {
+      "label": "Takvim",
+      "href": "takvim.html",
+      "icon": "calendar"
+    },
+    {
+      "label": "Galeri",
+      "href": "galeri.html",
+      "icon": "gallery"
+    },
+    {
+      "label": "Sponsorluk",
+      "href": "sponsorluk.html",
+      "icon": "trophy"
+    },
+    {
+      "label": "Ölçme / Değerlendirme",
+      "short": "Ölçme",
+      "href": "olcme-degerlendirme.html",
+      "icon": "gauge"
+    }
+  ],
+  "footer_nav": {
+    "Keşfet": [
+      {
+        "label": "Hakkımızda",
+        "href": "hakkimizda.html"
+      },
+      {
+        "label": "Neden Mathvivor",
+        "href": "neden-mathvivor.html"
+      },
+      {
+        "label": "Oyunları Keşfet",
+        "href": "oyunlar.html"
+      },
+      {
+        "label": "Kazanımlar",
+        "href": "kazanimlar.html"
+      },
+      {
+        "label": "Kurumsal",
+        "href": "kurumsal.html"
+      }
+    ],
+    "Arena": [
+      {
+        "label": "Takvim",
+        "href": "takvim.html"
+      },
+      {
+        "label": "Galeri",
+        "href": "galeri.html"
+      },
+      {
+        "label": "Sponsorluk",
+        "href": "sponsorluk.html"
+      },
+      {
+        "label": "Ölçme ve Değerlendirme",
+        "href": "olcme-degerlendirme.html"
+      },
+      {
+        "label": "Parkur Kullanım Koşulları",
+        "href": "parkur-kullanim-kosullari.html"
+      },
+      {
+        "label": "KVKK Aydınlatma Metni",
+        "href": "kvkk.html"
+      }
+    ]
+  },
+  "pages": [
+    {
+      "slug": "index",
+      "title": "Hareket Matematikle Daha Güçlü",
+      "description": "Mathvivor; matematik, spor, strateji ve takım çalışmasını aynı arenada buluşturan deneyimsel eğitim ve etkinlik platformu. Basketbol Connect, Golf Connect, Futbol Connect ve daha fazlası.",
+      "css": [
+        "assets/css/connect-game.css",
+        "assets/css/home.css"
+      ],
+      "js": [
+        "assets/js/connect-game.js",
+        "assets/js/home.js"
+      ]
+    },
+    {
+      "slug": "hakkimizda",
+      "title": "Hakkımızda",
+      "description": "Mathvivor: deneyimden doğan başarı, geleceği şekillendiren deneyim. Eğitim organizasyonları, müze projeleri ve festival deneyiminden doğan özgün bir proje.",
+      "css": [
+        "assets/css/sayfalar.css"
+      ]
+    },
+    {
+      "slug": "neden-mathvivor",
+      "title": "Neden Mathvivor",
+      "description": "Matematik + Spor + Strateji + Takım Çalışması. Mathvivor eğitim projesini bir deneyim projesine dönüştürür; team building değil, team performance.",
+      "css": [
+        "assets/css/sayfalar.css"
+      ]
+    },
+    {
+      "slug": "oyunlar",
+      "title": "Oyunları Keşfet",
+      "description": "Basketbol Connect, Golf Connect, Futbol Connect, Voleybol Connect ve daha fazlası: Mathvivor parkurları, destekleyici atölye oyunları ve atölyeler.",
+      "css": [
+        "assets/css/oyunlar.css"
+      ],
+      "js": [
+        "assets/js/oyunlar.js"
+      ]
+    },
+    {
+      "slug": "kazanimlar",
+      "title": "Kazanımlar",
+      "description": "Hızlı ve doğru karar vermeden takım iletişimine, analitik düşünmeden fiziksel performansa: Mathvivor oyunlarının 17 kazanımı.",
+      "css": [
+        "assets/css/kazanim.css"
+      ],
+      "js": [
+        "assets/js/kazanim.js"
+      ]
+    },
+    {
+      "slug": "kurumsal",
+      "title": "Kurumsal",
+      "description": "AVM'ler, okullar, markalar ve kamu kurumları için Mathvivor: ekip performansı, marka deneyim alanları ve markaya özel oyunlar.",
+      "css": [
+        "assets/css/sayfalar.css"
+      ],
+      "js": [
+        "assets/js/taktik.js"
+      ]
+    },
+    {
+      "slug": "olcme-degerlendirme",
+      "title": "Ölçme ve Değerlendirme",
+      "description": "Mathvivor oyunlarında takım nasıl düşünüyor? Beş sembol ve takım rolleriyle oyun içinde gözlenen davranışlar.",
+      "css": [
+        "assets/css/kazanim.css"
+      ],
+      "js": [
+        "assets/js/rol-testi.js"
+      ]
+    },
+    {
+      "slug": "takvim",
+      "title": "Etkinlik Takvimi",
+      "description": "Mathvivor parkurlarının kurulacağı etkinlikler, festivaller ve kamplar bu takvimde duyurulur.",
+      "css": [
+        "assets/css/arena.css"
+      ],
+      "js": [
+        "assets/data/etkinlikler.js",
+        "assets/js/takvim.js"
+      ]
+    },
+    {
+      "slug": "galeri",
+      "title": "Galeri",
+      "description": "Mathvivor parkurlarından, festival alanlarından ve oyun konseptlerinden görseller.",
+      "css": [
+        "assets/css/arena.css"
+      ],
+      "js": [
+        "assets/js/galeri.js"
+      ]
+    },
+    {
+      "slug": "sponsorluk",
+      "title": "Sponsorluk",
+      "description": "Markanı reklamın içine değil, deneyimin içine yerleştir. Mathvivor sponsorluk kategorileri: Ana, Altın, Destek, Eğitim, Sağlık, Medya İletişim ve Sosyal Sorumluluk.",
+      "css": [
+        "assets/css/arena.css"
+      ]
+    },
+    {
+      "slug": "iletisim",
+      "title": "İletişim",
+      "description": "Mathvivor ile iletişime geçin: etkinlik, okul, kurum ve sponsorluk talepleriniz için bize yazın ya da arayın.",
+      "css": [
+        "assets/css/iletisim.css"
+      ],
+      "js": [
+        "assets/js/iletisim.js"
+      ]
+    },
+    {
+      "slug": "parkur-kullanim-kosullari",
+      "title": "Parkur Kullanım Koşulları",
+      "description": "Mathvivor parkurlarının kurulumu, kullanımı, güvenliği ve iadesine ilişkin koşullar.",
+      "css": [
+        "assets/css/iletisim.css"
+      ],
+      "js": [
+        "assets/js/iletisim.js"
+      ]
+    },
+    {
+      "slug": "kvkk",
+      "title": "KVKK Aydınlatma Metni",
+      "description": "Mathvivor kişisel verilerin korunması ve işlenmesine ilişkin aydınlatma metni.",
+      "noindex": true,
+      "css": [
+        "assets/css/iletisim.css"
+      ],
+      "js": [
+        "assets/js/iletisim.js"
+      ]
+    },
+    {
+      "slug": "404",
+      "title": "Sayfa Bulunamadı",
+      "description": "Aradığınız sayfa bulunamadı.",
+      "noindex": true,
+      "css": [
+        "assets/css/iletisim.css"
+      ]
+    }
+  ]
+}
